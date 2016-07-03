@@ -1,2 +1,3 @@
 # ant-system
-Implemtação do Algoritmo Ant System para disciplina de Computação Natural.
+Implementação do Algoritmo Ant System para disciplina de Computação Natural.
+Necessário Python 2.x para executar o algoritmo.
